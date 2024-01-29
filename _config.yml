@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Do Study                          # the main title
+title: Blog                        # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -83,7 +83,7 @@ img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
 #avatar: '/assets/img/eclipse-g8f8c3db13_640.jpg'
-avatar: ''
+avatar: '/assets/img/peach.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
