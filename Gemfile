@@ -28,3 +28,5 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem "jekyll-sitemap"
+
+gem 'google-protobuf', '~> 3.25', '>= 3.25.2'
